@@ -16,5 +16,7 @@ export default defineConfig({
         },
       },
     },
+    // Exclude wrangler.json from build
+    publicDir: false,
   },
 });
