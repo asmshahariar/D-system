@@ -1,3 +1,5 @@
 wrangler.json
 .wrangler
 dist/client/.assetsignore
+dist/client/wrangler.json
+dist/client/.assetsignore
